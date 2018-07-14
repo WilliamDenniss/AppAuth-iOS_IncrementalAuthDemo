@@ -1,0 +1,22 @@
+PODS:
+  - AppAuth (0.93.0)
+
+DEPENDENCIES:
+  - AppAuth (from `https://github.com/WilliamDenniss/AppAuth-iOS`, branch `draft-ietf-oauth-incremental-authz`)
+
+EXTERNAL SOURCES:
+  AppAuth:
+    :branch: draft-ietf-oauth-incremental-authz
+    :git: https://github.com/WilliamDenniss/AppAuth-iOS
+
+CHECKOUT OPTIONS:
+  AppAuth:
+    :commit: 19c6a937a23e19cf7968a3e007c945c9d688ab9e
+    :git: https://github.com/WilliamDenniss/AppAuth-iOS
+
+SPEC CHECKSUMS:
+  AppAuth: 1096c2ad48507c4a2a8c85c8a6ff065741ab9931
+
+PODFILE CHECKSUM: 9ea3477146123c1278c9f3900e6b4ce1336fdeef
+
+COCOAPODS: 1.5.3
